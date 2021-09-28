@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541679612554",
+    "project_id": "flutter-demo-app-c7d6b",
+    "storage_bucket": "flutter-demo-app-c7d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541679612554:android:6e135e12a17a1c44b6f373",
+        "android_client_info": {
+          "package_name": "com.ramaslk.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541679612554-uleo51570hukvo39jhn9o1kl0gvk6ur3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ5fAOrHDWMmFivtADmg5fpU55TCdTYto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541679612554-uleo51570hukvo39jhn9o1kl0gvk6ur3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
